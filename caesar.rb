@@ -1,1 +1,3 @@
-test
+def shift
+    return "SHIFT"
+end
